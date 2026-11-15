@@ -1,0 +1,29 @@
+{
+  "project": "Project 86: Emotion-Aware Transcription System",
+  "models": {
+    "asr_acoustic_model": "Wav2Vec2 ASR Base 10M",
+    "ser_model": "EmotionCNN_GRU (2D-CNN + BiGRU + Self-Attention Pooling)",
+    "vad_engine": "Silero Neural VAD",
+    "emotion_categories": [
+      "NEUTRAL",
+      "HAPPY",
+      "ANGRY",
+      "SAD",
+      "SURPRISED"
+    ]
+  },
+  "performance_metrics": {
+    "ser_classification_accuracy_pct": 80.0,
+    "ser_macro_f1_pct": 70.0,
+    "num_dialogue_turns": 10,
+    "session_duration_sec": 19.76
+  },
+  "latency_benchmark": {
+    "vad_latency_ms": 275.21,
+    "asr_transcription_ms": 1162.98,
+    "ser_classification_ms": 93.92,
+    "total_processing_sec": 1.53,
+    "real_time_factor_rtf": 0.0776,
+    "speedup_factor": 12.89
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "turn_id": 1,
+    "start": 0.77,
+    "end": 1.822,
+    "duration": 1.052,
+    "emotion": "NEUTRAL",
+    "confidence": 0.7299,
+    "valence": 0.0,
+    "arousal": 0.0,
+    "emotion_distribution": {
+      "NEUTRAL": 0.7299,
+      "HAPPY": 0.0004,
+      "ANGRY": 0.0007,
+      "SAD": 0.0004,
+      "SURPRISED": 0.2687
+    },
+    "text": "FOXS JOMPS OVER THE L"
+  },
+  {
+    "turn_id": 2,
+    "start": 1.986,
+    "end": 3.134,
+    "duration": 1.148,
+    "emotion": "SURPRISED",
+    "confidence": 0.6149,
+    "valence": 0.4,
+    "arousal": 0.8,
+    "emotion_distribution": {
+      "NEUTRAL": 0.3814,
+      "HAPPY": 0.0003,
+      "ANGRY": 0.0014,
+      "SAD": 0.002,
+      "SURPRISED": 0.6149
+    },
+    "text": "PROVID SEAMLIS"
+  },
+  {
+    "turn_id": 3,
+    "start": 4.194,
+    "end": 4.99,
+    "duration": 0.796,
+    "emotion": "HAPPY",
+    "confidence": 0.9987,
+    "valence": 0.8,
+    "arousal": 0.65,
+    "emotion_distribution": {
+      "NEUTRAL": 0.0,
+      "HAPPY": 0.9987,
+      "ANGRY": 0.001,
+      "SAD": 0.0002,
+      "SURPRISED": 0.0
+    },
+    "text": "ISTO WITH YOR"
+  },
+  {
+    "turn_id": 4,
+    "start": 5.058,
+    "end": 6.078,
+    "duration": 1.02,
+    "emotion": "HAPPY",
+    "confidence": 0.9992,
+    "valence": 0.8,
+    "arousal": 0.65,
+    "emotion_distribution": {
+      "NEUTRAL": 0.0,
+      "HAPPY": 0.9992,
+      "ANGRY": 0.0007,
+      "SAD": 0.0001,
+      "SURPRISED": 0.0
+    },
+    "text": "NO DESSCIS WOED"
+  },
+  {
+    "turn_id": 5,
+    "start": 7.138,
+    "end": 9.374,
+    "duration": 2.236,
+    "emotion": "ANGRY",
+    "confidence": 0.9992,
+    "valence": -0.7,
+    "arousal": 0.85,
+    "emotion_distribution": {
+      "NEUTRAL": 0.0001,
+      "HAPPY": 0.0004,
+      "ANGRY": 0.9992,
+      "SAD": 0.0003,
+      "SURPRISED": 0.0001
+    },
+    "text": "PRAITORY DESTRES TAK OFF N RUN WAT"
+  },
+  {
+    "turn_id": 6,
+    "start": 10.242,
+    "end": 11.39,
+    "duration": 1.148,
+    "emotion": "SAD",
+    "confidence": 0.9969,
+    "valence": -0.8,
+    "arousal": -0.6,
+    "emotion_distribution": {
+      "NEUTRAL": 0.0001,
+      "HAPPY": 0.0001,
+      "ANGRY": 0.0029,
+      "SAD": 0.9969,
+      "SURPRISED": 0.0
+    },
+    "text": "HIF ERE NAT TO BE VETIS"
+  },
+  {
+    "turn_id": 7,
+    "start": 11.49,
+    "end": 12.382,
+    "duration": 0.892,
+    "emotion": "SAD",
+    "confidence": 0.9926,
+    "valence": -0.8,
+    "arousal": -0.6,
+    "emotion_distribution": {
+      "NEUTRAL": 0.0001,
+      "HAPPY": 0.0002,
+      "ANGRY": 0.0071,
+      "SAD": 0.9926,
+      "SURPRISED": 0.0
+    },
+    "text": "PLEAIS TURN OFFTHE"
+  },
+  {
+    "turn_id": 8,
+    "start": 13.41,
+    "end": 15.742,
+    "duration": 2.332,
+    "emotion": "NEUTRAL",
+    "confidence": 0.5135,
+    "valence": 0.0,
+    "arousal": 0.0,
+    "emotion_distribution": {
+      "NEUTRAL": 0.5135,
+      "HAPPY": 0.0002,
+      "ANGRY": 0.0008,
+      "SAD": 0.0008,
+      "SURPRISED": 0.4847
+    },
+    "text": "AND OF THE LIVING ROM LAEQULD TO THE SOM OF THES"
+  },
+  {
+    "turn_id": 9,
+    "start": 16.642,
+    "end": 17.214,
+    "duration": 0.572,
+    "emotion": "HAPPY",
+    "confidence": 0.9994,
+    "valence": 0.8,
+    "arousal": 0.65,
+    "emotion_distribution": {
+      "NEUTRAL": 0.0,
+      "HAPPY": 0.9994,
+      "ANGRY": 0.0005,
+      "SAD": 0.0001,
+      "SURPRISED": 0.0
+    },
+    "text": "WIS TE"
+  },
+  {
+    "turn_id": 10,
+    "start": 17.634,
+    "end": 18.75,
+    "duration": 1.116,
+    "emotion": "HAPPY",
+    "confidence": 0.9991,
+    "valence": 0.8,
+    "arousal": 0.65,
+    "emotion_distribution": {
+      "NEUTRAL": 0.0,
+      "HAPPY": 0.9991,
+      "ANGRY": 0.0008,
+      "SAD": 0.0001,
+      "SURPRISED": 0.0
+    },
+    "text": "LAY DAG NAE"
+  }
+]
